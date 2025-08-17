@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+ipywidgets
+<<<<<<< HEAD
+=======
+notebook
+>>>>>>> 04e2e7a (Add Jupyter and fix requirements.txt)
